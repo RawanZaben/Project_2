@@ -1,0 +1,44 @@
+body {
+
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .topnav {
+    overflow: hidden;
+    background-color: #193044;
+  }
+  
+  .aa{
+    float: left;
+    color: #399491;
+    padding: 14px 16px;
+    font-size: 28px;
+  }
+  
+  .topnav a:hover {
+    background-color: #39949142;
+    color: white;
+  }
+  .ll{
+    float:right;
+    color: #399491;
+    padding: 14px 16px;
+    font-size: 30px;
+  }
+  .se{
+    text-align: center;
+
+    margin:12px;
+    width: 300px;
+  }
+  .xx{
+    text-align: center;
+
+    background-color:  #9abbb9a1;
+    color: white;
+  }
+  .xx:hover {
+    background-color: #399491;
+    color: white;
+  }

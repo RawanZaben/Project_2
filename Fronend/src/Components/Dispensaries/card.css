@@ -1,0 +1,37 @@
+*{
+  text-align: center;
+}
+.dd{
+    display:flex;
+    flex-direction: row;
+    width: 95%;
+  
+  }
+  .polaroids {
+  
+    margin: 20px;
+    padding: 20px;
+    width: 30%;
+    background-color: white;
+  }
+  .polaroids:hover {
+    transform: scale(1.1);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1), 0 6px 20px 0 #195080;
+  
+  }
+  h1{
+ color: #399491;
+  }
+  h4{
+color:  #193044;  }
+  .hh{
+    display:flex;
+    flex-direction: row;
+  }
+  .hh div{
+    margin: 70px;
+  }
+.b{
+  border: 1px solid black ;
+width: 300px;
+}

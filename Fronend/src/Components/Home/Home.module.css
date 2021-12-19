@@ -1,0 +1,10 @@
+.test{
+    background-image: url(../images/arseny-togulev-DE6rYp1nAho-unsplash.jpg);
+    background-size: cover;
+    height: 600px;
+    font-size: 60px !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
